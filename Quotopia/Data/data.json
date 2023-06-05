@@ -1,0 +1,29 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Maya Angelou",
+      "birth_year": 1928,
+      "death_year": 2014,
+      "background": "Maya Angelou was an American poet, memoirist, and civil rights activist. She is best known for her series of autobiographies, which explore themes of identity, family, and racism. Angelou's work has had a profound impact on literature and has inspired countless readers around the world.",
+      "image_url": "https://example.com/maya_angelou.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ralph Waldo Emerson",
+      "birth_year": 1803,
+      "death_year": 1882,
+      "background": "Ralph Waldo Emerson was an American essayist, lecturer, and poet who led the transcendentalist movement in the mid-19th century. His essays and speeches addressed topics such as self-reliance, individualism, and the relationship between nature and the human soul.",
+      "image_url": "https://example.com/ralph_waldo_emerson.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mahatma Gandhi",
+      "birth_year": 1869,
+      "death_year": 1948,
+      "background": "Mahatma Gandhi, often referred to as the 'Father of the Nation' in India, was a political and spiritual leader who played a key role in the country's struggle for independence from British rule. Gandhi advocated for nonviolent civil disobedience and inspired movements for freedom and civil rights around the world.",
+      "image_url": "https://example.com/mahatma_gandhi.jpg"
+    }
+  ]
+}
+
