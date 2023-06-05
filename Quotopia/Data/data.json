@@ -1,29 +1,47 @@
-{
-  "authors": [
+[
     {
-      "id": 1,
-      "name": "Maya Angelou",
-      "birth_year": 1928,
-      "death_year": 2014,
-      "background": "Maya Angelou was an American poet, memoirist, and civil rights activist. She is best known for her series of autobiographies, which explore themes of identity, family, and racism. Angelou's work has had a profound impact on literature and has inspired countless readers around the world.",
-      "image_url": "https://example.com/maya_angelou.jpg"
+        "id": 1,
+        "name": "Maya Angelou",
+        "birthYear": 1928,
+        "deathYear": 2014,
+        "background": "Maya Angelou was an American poet, memoirist, and civil rights activist. She is best known for her series of autobiographies, which explore themes of identity, family, and racism. Angelou's work has had a profound impact on literature and has inspired countless readers around the world.",
+        "img": "Maya Angelou",
+        "backgroundImg": "bg1",
+        "popularQuotes": [
+            "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+            "You may not control all the events that happen to you, but you can decide not to be reduced by them.",
+            "Success is liking yourself, liking what you do, and liking how you do it.",
+            "A bird doesn't sing because it has an answer, it sings because it has a song."
+        ]
     },
     {
-      "id": 2,
-      "name": "Ralph Waldo Emerson",
-      "birth_year": 1803,
-      "death_year": 1882,
-      "background": "Ralph Waldo Emerson was an American essayist, lecturer, and poet who led the transcendentalist movement in the mid-19th century. His essays and speeches addressed topics such as self-reliance, individualism, and the relationship between nature and the human soul.",
-      "image_url": "https://example.com/ralph_waldo_emerson.jpg"
+        "id": 2,
+        "name": "Ralph Waldo Emerson",
+        "birthYear": 1803,
+        "deathYear": 1882,
+        "background": "Ralph Waldo Emerson was an American essayist, lecturer, and poet who led the transcendentalist movement in the mid-19th century. His essays and speeches addressed topics such as self-reliance, individualism, and the relationship between nature and the human soul.",
+        "img": "Ralph Waldo Emerson",
+        "backgroundImg": "bg2",
+        "popularQuotes": [
+            "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+            "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+            "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+            "The only person you are destined to become is the person you decide to be."
+        ]
     },
     {
-      "id": 3,
-      "name": "Mahatma Gandhi",
-      "birth_year": 1869,
-      "death_year": 1948,
-      "background": "Mahatma Gandhi, often referred to as the 'Father of the Nation' in India, was a political and spiritual leader who played a key role in the country's struggle for independence from British rule. Gandhi advocated for nonviolent civil disobedience and inspired movements for freedom and civil rights around the world.",
-      "image_url": "https://example.com/mahatma_gandhi.jpg"
+        "id": 3,
+        "name": "Albert Einstein",
+        "birthYear": 1879,
+        "deathYear": 1955,
+        "background": "Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the pillars of modern physics. He is known for his mass-energy equivalence formula, E=mc², and his groundbreaking contributions to the understanding of the universe.",
+        "img": "Albert Einstein",
+        "backgroundImg": "bg3",
+        "popularQuotes": [
+            "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+            "Imagination is more important than knowledge.",
+            "The true sign of intelligence is not knowledge but imagination.",
+            "Strive not to be a success, but rather to be of value."
+        ]
     }
-  ]
-}
-
+]

@@ -11,7 +11,7 @@ import SwiftUI
 struct QuotopiaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            QuoteList()
         }
     }
 }

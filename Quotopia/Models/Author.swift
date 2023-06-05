@@ -7,6 +7,13 @@
 
 import Foundation
 
-struct Author: Decodable {
-    var author: String
+struct Author: Identifiable, Decodable {
+    var id: Int
+    var name: String
+    var birthYear: Int
+    var deathYear: Int
+    var background: String
+    var img: String
+    var backgroundImg: String
+    var popularQuotes: [String]
 }
